@@ -1,6 +1,6 @@
 # TSP Investing Strategies, 2nd Edition
 
-This repo provides the data, scripts, and sample graphics cited in 'TSP Investing Strategies: Building Wealth While Working for Uncle Sam", 2nd Edition, and associated articles. 
+This repo provides the data, scripts, and sample graphics cited in _TSP Investing Strategies: Building Wealth While Working for Uncle Sam, 2nd Edition_, and associated articles. 
 
 ### Data
 
