@@ -1,6 +1,6 @@
 # TSP Investing Strategies, 2nd Edition
 
-This repo provides the scripts, data, and sample graphics cited in 'TSP Investing Strategies: Building Wealth While Working for Uncle Sam", 2nd Edition, and associated articles. 
+This repo provides the data, scripts, and sample graphics cited in 'TSP Investing Strategies: Building Wealth While Working for Uncle Sam", 2nd Edition, and associated articles. 
 
 ### Data
 
@@ -12,9 +12,13 @@ For month-end SP composite prices from 1900 to 1927, I referenced Case-Shillerâ€
 
 The SP data is saved in this repo as "sp_comp_1900_2019.csv". 
 
+The monthly contributions file lists contributions from $250 in the first 12 months (the first year), and the contributions increase by 5% each year to year 40. 
+
 ### Scripts
 
 The main script comparing returns between the U.S. stock index (C Fund) and the U.S. 10-year (G Fund) is titled "historical_returns.py". I attempted to comment all of the steps I took in the script to conduct the analyses. 
+
+The 20- and 30-year periods from 1988 onward match very closely with real-world monthly TSP return data. Compare the returns with those in the beta TSP returns calculator available at https://returns.tspstrategies.com. To compare returns, set the variables to $30,000 starting salary, 5% contribution rate, and either 20 or 30 years, and match the C and G Fund data with those in the 20- and 30-year calculated data from the 10-year and S&P datasets. 
 
 ### Sample Graphics
 
