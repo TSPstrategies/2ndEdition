@@ -16,11 +16,9 @@ The monthly contributions file lists contributions from $250 in the first 12 mon
 
 ### Scripts
 
-The main script comparing returns between the U.S. stock index (C Fund) and the U.S. 10-year (G Fund) is titled "historical_returns.py". I attempted to comment all of the steps I took in the script to conduct the analyses. 
+The main script comparing returns between the U.S. stock index (C Fund) and the U.S. 10-year (G Fund) is titled "historical_returns.py". I attempted to comment all of the steps I took in the script to conduct the analyses.  
 
-See the interactive returns calculator at https://thrifty.ninja to test the scripts and underlying data with additional variables such as fees. 
-
-The 20- and 30-year periods from 1988 onward match very closely with real-world monthly TSP return data. Compare the returns with those in the beta TSP returns calculator available at https://returns.tspstrategies.com. To compare returns, set the variables to $30,000 starting salary, 5% contribution rate, and either 20 or 30 years, and match the C and G Fund data with those in the 20- and 30-year calculated data from the 10-year and S&P datasets. 
+The 20- and 30-year periods from 1988 onward match very closely with real-world monthly TSP return data. Compare the returns with those in the beta TSP Historical Returns Calculator link available at https://tspstrategies.com/tsp-calculators/. To compare returns, set the variables to $30,000 starting salary, 5% contribution rate, and either 20 or 30 years, and match the C and G Fund data with those in the 20- and 30-year calculated data from the 10-year and S&P datasets. 
 
 The results can also be compared dynamically between returns calculators when using the same inputs, such as the same start and end year, the same salary, contributions, etc., from 1988 to 2019. 
 
